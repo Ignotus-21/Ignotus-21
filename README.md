@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # 💫 About Me:
 A highly motivated and friendly personality looking for a responsible position to gain practical experience using my interpersonal skills to achieve the goals of a company that focuses on customer satisfaction and customer experience.<br>Positive Attitude toward Career Life in a professional approach to get the best result in the organization's interest and ability to meet all sorts of challenges in the course of responsibility
 
@@ -34,7 +34,7 @@ A highly motivated and friendly personality looking for a responsible position t
 ---
 [![](https://visitcount.itsvg.in/api?id=Ignotus-21&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
 
 
 
@@ -48,7 +48,7 @@ A highly motivated and friendly personality looking for a responsible position t
 
 <p align="left"> <a href="https://twitter.com/@adi_x_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/@adi_x_aditya?logo=twitter&style=for-the-badge" alt="@adi_x_aditya" /></a> </p>
 
-- 🌱 I’m currently learning **AI &ML**
+- 🌱 I’m currently learning **AI & ML**
 
 - 💬 Ask me about **Frontend Technologies**
 
